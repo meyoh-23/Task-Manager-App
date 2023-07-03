@@ -1,0 +1,5 @@
+password-mongoDB = hx71iDUqVQTlK3KL
+
+Task-manager-v1 = KrHEGc2wCwJz51TJ
+
+connection-string= 'mongodb+srv://Task-manager-v1:<password>@cluster0.osf7mol.mongodb.net/?retryWrites=true&w=majority' 
